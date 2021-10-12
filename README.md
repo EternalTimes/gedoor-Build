@@ -2,12 +2,12 @@
 
 > 默认从最新发布的tag构建,每次构建会自动清空18PlusList.txt
 
-> 最新构建下载:[legado-3.21.100821.apk](https://github.com/EternalTimes/gedoor-Build/releases/download/legado-3.21.100821/legado-3.21.100821.apk) 上次构建时间:2021-10-09 02:09:57
+> 最新构建下载:[legado-3.21.101217.apk](https://github.com/EternalTimes/gedoor-Build/releases/download/legado-3.21.101217/legado-3.21.101217.apk) 上次构建时间:2021-10-12 20:13:45
 <!--start-->
-> **2021/10/07**
+> **2021/10/10**
 > 
-> 1. 修复阅读界面长按菜单阻挡选择bug
-> 2. 添加订阅源api
+> * 阿里云语音自动登录
+> * 修复一些bug
 <!--end-->
   
 1. fork到你自己的仓库
