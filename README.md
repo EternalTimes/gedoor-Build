@@ -2,9 +2,9 @@
 
 > 默认从最新发布的tag构建,每次构建会自动清空18PlusList.txt
 
-> 最新构建下载:[legado-3.22.100120.apk](https://github.com/EternalTimes/gedoor-Build/releases/download/legado-3.22.100120/legado-3.22.100120.apk) 上次构建时间:2022-10-02 02:14:25
+> 最新构建下载:[legado-3.22.100210.apk](https://github.com/EternalTimes/gedoor-Build/releases/download/legado-3.22.100210/legado-3.22.100210.apk) 上次构建时间:2022-10-02 14:22:10
 <!--start-->
-> **2022/10/01**
+> **2022/10/02**
 > 
 > * 更新cronet: 106.0.5249.79
 > * 正文选择菜单朗读按钮长按可切换朗读选择内容和从选择开始处一直朗读
