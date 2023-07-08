@@ -2,15 +2,18 @@
 
 默认从最新发布的tag构建,每次构建会自动清空18PlusList.txt
 
-> 最新构建下载:[legado-3.23.062623.apk](https://github.com/EternalTimes/gedoor-Build/releases/download/legado-3.23.062623/legado-3.23.062623.apk) 上次构建时间:2023-06-27 08:42:39
+> 最新构建下载:[legado-3.23.070809.apk](https://github.com/EternalTimes/gedoor-Build/releases/download/legado-3.23.070809/legado-3.23.070809.apk) 上次构建时间:2023-07-08 20:11:33
 <!--start-->
-> **2023/06/26**
+> **2023/07/08**
 > 
-> * 书架更新时显示剩余更新数量,在书架布局里配置
-> * 添加退出按钮
-> * 发现添加全部加入书架功能
+> * 更新cronet: 114.0.5735.196
+> * 修复朗读可能崩溃的bug
+> * add Vietnamese language
+> * 修复部分图片无法访问的bug
+> * 修复阿里云tts
 > * 其它一些优化和bug修复
 > * 其中一些更新由 Xwite, Horis 提供
+> 
 <!--end-->
   
 使用app过程中遇到问题,请到这里解决[gedoor/legado](https://github.com/gedoor/legado/issues)
