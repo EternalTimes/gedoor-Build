@@ -2,17 +2,18 @@
 
 默认从最新发布的tag构建,每次构建会自动清空18PlusList.txt
 
-> 最新构建下载:[legado-3.23.072018.apk](https://github.com/EternalTimes/gedoor-Build/releases/download/legado-3.23.072018/legado-3.23.072018.apk) 上次构建时间:2023-07-20 20:12:20
+> 最新构建下载:[legado-3.23.072918.apk](https://github.com/EternalTimes/gedoor-Build/releases/download/legado-3.23.072918/legado-3.23.072918.apk) 上次构建时间:2023-07-29 20:10:27
 <!--start-->
-> **2023/07/20**
+> **2023/07/29**
 > 
-> * 更新cronet: 115.0.5790.85
-> * 阅读菜单添加生效的替换规则
-> * 修复没有下一页遮挡菜单问题
-> * 优化epub导出
-> * 其它一些优化和bug修复
-> * 其中一些更新由 Horis, Xwite, Discut 提供
-> 
+> * 更新cronet: 115.0.5790.136
+> * 更新kotlin 1.9.0, 迁移到ksp
+> * 后台导出书籍
+> * 订阅添加跳转url拦截, js, 返回true拦截,js变量url,可以通过js打开url,比如调用阅读搜索java.searchBook(
+>   bookName),添加书架等java.addBook(bookUrl),简化规则写法,不用webView js注入
+> * 导出单个书籍的书签
+> * 其它优化与bug修复
+> * 其中一些更新由 Horis, Xwite, ag2s20150909 提供
 <!--end-->
   
 使用app过程中遇到问题,请到这里解决[gedoor/legado](https://github.com/gedoor/legado/issues)
