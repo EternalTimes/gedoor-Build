@@ -2,9 +2,9 @@
 
 默认从最新发布的tag构建,每次构建会自动清空18PlusList.txt
 
-> 最新构建下载:[legado-3.23.072921.apk](https://github.com/EternalTimes/gedoor-Build/releases/download/legado-3.23.072921/legado-3.23.072921.apk) 上次构建时间:2023-07-30 08:39:03
+> 最新构建下载:[legado-3.23.073011.apk](https://github.com/EternalTimes/gedoor-Build/releases/download/legado-3.23.073011/legado-3.23.073011.apk) 上次构建时间:2023-07-30 20:10:46
 <!--start-->
-> **2023/07/29**
+> **2023/07/30**
 > 
 > * 更新cronet: 115.0.5790.136
 > * 更新kotlin 1.9.0, 迁移到ksp
